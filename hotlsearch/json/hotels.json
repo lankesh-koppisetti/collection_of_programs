@@ -1,0 +1,211 @@
+{
+    "status":"SUCCESS",
+    "status_code":200,
+    "error":"",
+    "hotels":[
+        {
+            "name":"Resort De Alturas",
+            "rating":3,
+            "image":"h1.jpeg",
+            "price":3400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Hyatt Centric Candolim Goa",
+            "rating":2,
+            "image":"h2.jpeg",
+            "price":1289,
+            "nearby":["Beach","Casino","Airport"],
+            "amenities":["Gym","Parking","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Dewdrop Le Seasons Beach Resort",
+            "rating":4,
+            "image":"h3.jpeg",
+            "price":5000,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Lemon Tree Amarante Beach Resort",
+            "rating":4,
+            "image":"h5.jpeg",
+            "price":4700,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"The Regalia Resort Goa",
+            "rating":5,
+            "image":"h6.jpeg",
+            "price":5600,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },{
+            "name":"SinQ Signature",
+            "rating":3,
+            "image":"h7.jpeg",
+            "price":1800,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },{
+            "name":"Kyriad Prestige Calangute Goa by OTHPL",
+            "rating":3,
+            "image":"h8.jpeg",
+            "price":1400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },{
+            "name":"Miramar Residency",
+            "rating":5,
+            "image":"h9.jpeg",
+            "price":9400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },{
+            "name":"Evoke Lifestyle Candolim",
+            "rating":5,
+            "image":"h10.jpeg",
+            "price":7400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Evi Consldf",
+            "rating":4,
+            "image":"h11.jpeg",
+            "price":3560,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Lifestyle Castle",
+            "rating":5,
+            "image":"h12.jpeg",
+            "price":7800,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Candolim Evoke Lifestyle ",
+            "rating":3,
+            "image":"h14.jpeg",
+            "price":4010,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"TrendSquare",
+            "rating":5,
+            "image":"h15.jpeg",
+            "price":6800,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"TATA Taj",
+            "rating":5,
+            "image":"h17.jpeg",
+            "price":12400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"IBis",
+            "rating":4,
+            "image":"h19.jpeg",
+            "price":2800,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        },
+        {
+            "name":"Akanda",
+            "rating":5,
+            "image":"h20.jpeg",
+            "price":6400,
+            "nearby":["Beach","Indira Park","Casino","Airport"],
+            "amenities":["Gym","Parking","Swimming pool","Spa","Indoor Stadium","Pet Care","ATM","Bar","Smoking zone"],
+            "address":{
+                "full_address":"Zone 1, 2 lane,Panjim, Goa",
+                "lng":"78.1234",
+                "lat":"28.9779"
+            }
+        }
+    ]
+}

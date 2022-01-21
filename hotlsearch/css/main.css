@@ -1,0 +1,231 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-Mar-2021, 7:57:27 PM
+    Author     : lankesh
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,900&display=swap');
+
+body{
+    font-family: 'Roboto';
+
+}
+.p-5{
+    padding: 5px;
+}
+.p-10{
+    padding:10px;
+}
+.pl-20{
+    padding-left: 20px;
+}
+.mt-25{
+    margin-top: 25px;
+}
+.mt-8{
+    margin-top: 8px;
+}
+
+.f-14{
+    font-size: 14px;
+}
+.width_25{
+    width:25%;
+}
+.width-50{
+    width:50%;
+}
+.width-75{
+    width:75%;
+}
+
+
+.w100p{
+    width:100%;
+}
+
+.w45p{
+    width:45%;
+}
+
+
+.main_heading{
+    color:#fff;
+}
+.search_container{
+    width:500px;
+    background-color: #d40000;
+    padding:20px;
+}
+.color_white{
+    color: #fff;
+}
+.sud_heading{
+    font-size:22px;
+
+}
+.date_input{
+    width:70%
+}
+.seach_button{
+    width:95%;
+    font-size: 22px;
+    letter-spacing: 2px;
+    padding:12px;
+    color:#e88c4e;
+    background-color: #800000;
+    font-weight:bold;
+    border:1px solid ;
+}
+.float_left{
+    float: left;
+}
+
+.float_right{
+    float: right;
+}
+.clearfix{ clear:both };
+
+
+#country-name{
+    color:#fff;
+}
+
+.country_autosuggesion{
+    background-color:#ccc;
+    position: absolute;
+    width:100%;
+    z-index: 2;
+    max-height: 150px;
+    overflow-y: scroll;
+    padding: 15px;
+    box-sizing: border-box;
+    display: none;
+    border-radius: 5px;
+}
+
+.country_autosuggesion p{
+    margin: 6px 0px;
+}
+
+.line{
+    border-top: 2px solid #ff0000; 
+    border-bottom: 2px solid #c90808; 
+    margin:10px -20px;
+}
+
+
+.search_labels{
+    font-size:22px;
+    color:#333;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.search_input{
+    border:1px solid #eee;
+    padding: 8px 10px;
+    background-color: #fff;
+    font-size: 14px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/*===== for chrome browser ===============*/
+::-webkit-input-placeholder { 
+    color: #f9f9f9;
+}
+
+/*======== may work for all the latest browsers ============*/
+::placeholder{color: #999}
+
+.age_info{
+    font-weight:bold;
+}
+.border_style_top{
+    border-top: 2px solid #ff0000; 
+
+
+}
+
+.location_img{
+    position: absolute;
+    top:10px;
+    right:12px;
+    color:#c90808;
+}
+
+.calender_icon{
+    position: absolute;
+    top:10px;
+    right: 12px;
+    color:#c90808;
+
+}
+
+.position_rel{
+    position:relative;
+}
+
+.box_sizing{
+     box-sizing: border-box;
+}
+
+
+/*=========== for rooms ====================*/
+.rooms{
+    
+}
+
+.rooms .roomcount{
+    width:30%;
+}
+
+.rooms .tenents{
+    width:auto;
+}
+
+.rooms .tenents .tenent_selection{
+    padding: 0px;
+    margin: 0px;
+    margin-bottom:20px;
+}
+
+.rooms .tenents .tenent_selection li{
+    display: inline-block;
+}
+
+.rooms .tenents .tenent_selection .no_of_rooms{
+    min-width: 90px;
+}
+
+.rooms .tenents .tenent_selection .adult{
+    margin-right: 10px;
+}
+.rooms .tenents .tenent_selection .adult,.rooms .tenents .tenent_selection .child{
+    min-width: 104px;
+}
+
+.rooms .tenents .tenent_selection .adult select,.rooms .tenents .tenent_selection .child select{
+    min-width: 100%;
+}
+
+.ui-widget.ui-widget-content{
+    height:4px;
+}
+
+.ui-slider-range,.ui-corner-all,.ui-widget-header{
+    background-color: #f00;
+}
+
+.ui-slider-horizontal .ui-slider-handle{
+    top:-0.5em;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{
+    background-color: #f00;
+    border-radius: 50%;
+    border-width:0px;
+}
